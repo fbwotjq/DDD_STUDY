@@ -11,4 +11,4 @@ https://github.com/fbwotjq/DDD_STUDY/blob/master/CHAPTOR04-05/20180613.md
 https://github.com/fbwotjq/DDD_STUDY/blob/master/CHAPTOR06-07/20180620.md
 
 * 2018/07/06 스터디 ( 도메인 객체의 생명주기 / 언어의 사용 )
-https://github.com/fbwotjq/DDD_STUDY/blob/master/CHAPTOR0809/20180704.md
+https://github.com/fbwotjq/DDD_STUDY/blob/master/CHAPTOR08-09/20180704.md
